@@ -1,0 +1,10 @@
+const Contact = ()=>{
+    return(
+        <div>
+           <h1> this is contact pages ...</h1>
+            
+            
+        </div>
+    )
+}
+export default Contact;

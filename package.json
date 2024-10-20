@@ -1,0 +1,29 @@
+{
+  "name": "donation",
+  "version": "1.0.0",
+  "description": "this is donation service website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "this",
+    "is",
+    "donation",
+    "service."
+  ],
+  "author": "Minor",
+  "license": "ISC",
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "firebase": "^10.13.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-firebase-hooks": "^5.1.1",
+    "react-router-dom": "^6.26.2"
+  }
+}
