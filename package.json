@@ -2,7 +2,7 @@
   "name": "donation",
   "version": "1.0.0",
   "description": "this is donation service website.",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "jest"
   },
